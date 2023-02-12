@@ -1,0 +1,14 @@
+.footer-text {
+  text-align: center;
+  /* color: #868e96; */
+  font-weight: bold;
+ 
+  font-family: "Google Sans Regular";
+}
+
+.footer-div {
+  background-color: rgb(0, 28, 85);
+  padding: 10px;
+  padding-top: 40px;
+  margin-top: 2rem;
+}
