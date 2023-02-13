@@ -2,11 +2,11 @@
     <img src="images/masterportfolio-banner-light.png" align="center" height="150"></img>
 </p>
 
-<h1 align="center"> Software Developer MY Portfolio 🔥 </h1> 
+<h1 align="center"> Software Developer MYPortfolio 🔥 </h1> 
 <h3 align="center"> A clean, beautiful, responsive, and 100% customizable portfolio <br /> template for Software Developers! </h3>
 
  
-<p align="center">If you want to discuss about something, you can ask on my <a href="https://discord.com/invite/GkcbM5bwZr">Discord Server</a>.</p>
+<p align="center">If you want to discuss about something, you can ask on my <a href="https://mohammedabdo.netlify.app/#/home">my website</a>.</p>
 
 <p align="center"> 
     <a href="https://mohammedabdo.netlify.app/#/home" target="_blank">
