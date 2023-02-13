@@ -172,12 +172,6 @@ Therefore, this part of portfolio is not customizable. But don't worry we have a
 Now, your website is successfully deployed and you can visit it at `<your-github-username>.github.io`.  
 If you are stuck somewhere and want to observe the deployment process in depth, then please watch below video.
 
-<p align="center"> 
-    <a href="http://www.youtube.com/watch?v=IwBS39TOmpA" target="_blank">
-    <img src="http://img.youtube.com/vi/IwBS39TOmpA/0.jpg"></img>
-  </a>
-</p>
-
 # Technologies used 🛠️
 
 - [React](https://reactjs.org/)
@@ -204,7 +198,3 @@ If you can help us with these. Please don't hesitate to open an [pull request](h
 - Add tests to automate review.
 - Setup Travis workflow.
 
-# References 👏🏻
-
-- Some Design and Implementation Ideas are taken from [Saad Pasta's Portfolio Project](https://github.com/saadpasta/developerFolio).
-- The Logo of MasterPortfolio is inspired from [prettier-logo](https://github.com/prettier/prettier-logo) for [prettier](https://github.com/prettier/prettier) designed by @ianstormtaylor.
