@@ -37,7 +37,7 @@
 ✔️ Experience\
 ✔️ Contact me
 
-To view a live example, **[click here](https://ashutosh1919.github.io/)**
+To view a live example, **[click here](https://mohammedabdo.netlify.app/)**
 
 # Clone and Use 📋
 
@@ -118,7 +118,7 @@ Whenever you want to update the github related information on the website you ne
 
 ### Splash Logo
 
-Note here that if you click [my portfolio](https://ashutosh1919.github.io), you can see animating the logo at the beginning. I have designed that logo in [`Figma`](https://www.figma.com/) and then animated it using css.
+Note here that if you click [my portfolio](https://mohammedabdo.netlify.app/), you can see animating the logo at the beginning. I have designed that logo in [`Figma`](https://www.figma.com/) and then animated it using css.
 Therefore, this part of portfolio is not customizable. But don't worry we have a solution to this problem. You have below two alternatives:
 
 - If you want to design your own logo, then you can design it using `Figma` or `Adobe XD` or `Adobe Illustrator` or `Inkscape`. If you want to animate it, you can refer to `./src/components/Loader` directory which contains `js` and `css` files which animates the logo
@@ -197,7 +197,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE)
 
 # Contributing 💡
 
-If you can help us with these. Please don't hesitate to open an [pull request](https://github.com/MohammedAbdo1/masterPortfolio/pulls) or [issue](https://github.com/MohammedAbdo1/masterPortfolio/issues).
+If you can help us with these. Please don't hesitate to open an [pull request](https://github.com/MohammedAbdo1/-MyPortfolio/pulls) or [issue](https://github.com/MohammedAbdo1/-MyPortfolio/issues).
 
 - Move to Gatsby
 - Add Podcast Section and Video Section
