@@ -32,14 +32,9 @@
 :star: Star us on GitHub — it helps!
 
 # Sections 📚
-
-✔️ Summary and About me\
 ✔️ Skills \
 ✔️ Open Source Projects Connected with Github\
 ✔️ Experience\
-✔️ Certifications 🏆\
-✔️ Blogs\
-✔️ Education\
 ✔️ Contact me
 
 To view a live example, **[click here](https://ashutosh1919.github.io/)**
@@ -51,7 +46,7 @@ To view a live example, **[click here](https://ashutosh1919.github.io/)**
 - In case you want to help developing it or simply saving it, you can fork the repository just by clicking the button on the top-right corner of this page
 - After the successful installation of `nodejs` and `npm`, clone the repository into your local system using below command:
   ```bash
-   git clone https://github.com/MohammedAbdo1/masterPortfolio.git
+   git clone https://github.com/MohammedAbdo1/-Myportfolio.git
   ```
   This will clone the whole repository in your system.
 - To download required dependencies to your system, navigate to the directory where the cloned repository resides and execute following command:
@@ -146,7 +141,7 @@ Therefore, this part of portfolio is not customizable. But don't worry we have a
 - You can define your own favicon in `public/icons` directory. If you don't have a favicon, you can generate favicons from [Favicon Generator](https://www.favicon-generator.org/) and [Favicon IO](https://favicon.io/)
 - You can also edit your website preview (known as description image). Run your site locally, take a screenshot and replace with `public/icons/desc.png`. Note that your screenshot should be 1280x640 for better preview.
 
-# Choose Theme 🌈
+# Choose Theme 
 
 - You can take a look at `src/theme.js` file where all available themes are mentioned with their respective color codes
 - At the bottom of this file you will see the below code:
